@@ -31,13 +31,13 @@ savings = 1000
 print(savings)
 
 
-# Create the variables monthly_savings and num_months
-monthly_savings = 10
-num_months = 4
+monthly_savings = 1000
+num_months = 5
+total = monthly_savings * num_months
+print(total)
 
 
-# Multiply monthly_savings and num_months
-new_savings = monthly_savings * num_months
+#PYTHON LISTS
+fruits = ["mango", "pineapple", "garden egg", "banana"]
+print(fruits)
 
-# Print new_savings
-print(new_savings)
